@@ -1,3 +1,10 @@
+glslang (7.10.2984-1atari0) atari; urgency=medium
+
+  * Import from Debian buster.
+  * Set component to development.
+
+ -- Apertis package maintainers <packagers@lists.apertis.org>  Wed, 31 Mar 2021 15:18:00 +0200
+
 glslang (7.10.2984-1) unstable; urgency=medium
 
   * New upstream release.
